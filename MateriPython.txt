@@ -1,0 +1,15 @@
+Pembukaan :
+Assalamualaikum wr.wb
+  selamat datang di channel Deinony Code, dengan saya sendiri adhe aulia,
+pada seri pertama video kali ini saya akan membahas tentang bahasa pemrograman python, jadi sebelum kita mulai mempelajari lebih lanjut tentang python,
+saya akan menjelaskan sedikit kepada teman-teman semua tentang APA ITU PYHON?
+
+mungkin sebagian dari teman-teman sudah pada tahu yaa, python tentu saja merupakan bahasa pemrograman, tetapi yang membedakan python dengan bahasa pemrograman lainnya 
+adalah dia merupakan bahasa pemorgraman yang interpreter
+
+buat teman-teman yang belum tahu apa itu interpreter? saya akan menjelaskan sedikit...
+  saya mengambil sumber dari wikipedia...
+  interpreter merupakan sebuah perangkat lunak yang berfungsi untuk melakukan eksekusi sejumlah intruksi yang ditulis dalam sebuah
+bahasa pemrograman,, jadi singkatnya seperti ini interpreter tersebut menerjemahkan kedalam serangkaian code kemudian mengeksekusinya
+
+jadi kalo di analogikan seperti ini...
